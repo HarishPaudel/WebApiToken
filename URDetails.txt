@@ -1,0 +1,3 @@
+
+WebPidetails
+https://offering.solutions/blog/articles/2015/10/03/token-authentication-with-claims-and-asp-net-webapi/
